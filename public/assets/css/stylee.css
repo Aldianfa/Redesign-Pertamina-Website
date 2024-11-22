@@ -1,0 +1,90 @@
+/* style.css */
+body {
+    margin: 0;
+    padding-top: 55px;
+    font-family: 'Poppins' !important;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    background-color: rgb(255, 255, 255);
+    padding: 0.4rem 0.3rem;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    z-index: 9999;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.logo img {
+    width: 100px;
+    margin-right: 310px;
+}
+
+.nav-list ul {
+    padding-left: 0%;
+    display: flex;
+}
+
+.nav-list li {
+    list-style-type: none;
+    margin-right: 3px;
+}
+
+.nav-list li a {
+    padding: 0.2rem 0.8rem;
+    border-radius: 6px;
+
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    color: grey;
+
+    transition: all 0.3s ease-in-out;
+}
+
+.nav-list li:hover a {
+    background-color: #f69697;
+    font-weight: 600;
+    color: #ff2c2c;
+}
+
+.hero {
+    background: url('../img/hero-pertamina1.png') no-repeat center center/cover;
+    padding-top: 50px;
+    color: white;
+    height: 100vh;
+}
+
+.hero-content {
+    text-align: left;
+    padding-left: 50px;
+    margin-top: 120px;
+}
+
+.hero-content h1 {
+    font-size: 46px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.button {
+    background: #ff0000;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
