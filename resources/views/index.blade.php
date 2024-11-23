@@ -236,6 +236,45 @@
     </section>
     {{-- Section Career --}}
 
+    {{-- Section Footer --}}
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="{{ asset('assets/img/logo-pertamina.png') }}" alt="logo" class="img-fluid">
+                    <p>Jl. Medan Merdeka Timur No.1A, Gambir, Jakarta Pusat, 10110</p>
+                </div>
+                <div class="col-md-3">
+                    <h1>Perusahaan</h1>
+                    <ul>
+                        <li><a href="#">Tentang Kami</a></li>
+                        <li><a href="#">Karir</a></li>
+                        <li><a href="#">Investor</a></li>
+                        <li><a href="#">Berita</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h1>Produk & Layanan</h1>
+                    <ul>
+                        <li><a href="#">Minyak Bumi</a></li>
+                        <li><a href="#">Gas</a></li>
+                        <li><a href="#">Pertamina Lubricants</a></li>
+                        <li><a href="#">Pertamina LPG</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h1>Hubungi Kami</h1>
+                    <ul>
+                        <li><a href="#">Kontak</a></li>
+                        <li><a href="#">Lokasi</a></li>
+                        <li><a href="#">FAQ</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    {{-- Section Footer --}}
+
 
 
 

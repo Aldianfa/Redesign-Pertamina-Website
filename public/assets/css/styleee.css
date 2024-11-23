@@ -1,5 +1,5 @@
 :root{
-    --primary-color: #ff2c2c;
+    --primary-color: #ED1A2F;
     --secondary-color: #f7f7f7;
 }
 
@@ -70,8 +70,8 @@ body{
     background-image: url('../img/hero-pertamina1.png');
     background-size: cover;
     background-position: center;
-    border-radius: 10px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    border-radius: 50px 0 50px 0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.18);
     height: 550px;
     width: 100%;
     padding-left: 60px;
@@ -139,18 +139,21 @@ body{
 
 .berita .berita-content .berita-button{
     margin-top: 30px;
-    width: 180px;
+    width: 160px;
     height: 40px;
-    background-color: white;
-    border: 2px solid rgb(155, 155, 155);
-    border-radius: 5px;
+    background-color: #ffe2e5;
+    border: none;
+    /* border: 2px solid rgb(155, 155, 155); */
+    border-radius: 90px;
 
     font-size: 14px;
-    color: grey;
+    /* color: grey; */
+    color: #ED1A2F;
+    transition: color 0.5s ease;
 }
 
 .berita .berita-content .berita-button:hover{
-    background-color: rgb(155, 155, 155);
+    background-color: #ED1A2F;
     color: white;
     font-weight: 700;
 }
@@ -227,7 +230,7 @@ body{
     right: 10px;
     bottom: 10px;
 
-    background-color: rgb(0, 55, 206);
+    background-color: #006BB8;
     border-radius: 99px;
     color: white;
     border: none;
@@ -313,7 +316,7 @@ body{
 /* Career */
 .career{
     padding-top: 60px;
-    padding-bottom: 120px;
+    padding-bottom: 60px;
     background-color: #f3f3f3;
 }
 
@@ -338,18 +341,22 @@ body{
 
 .career-content .career-button{
     margin-top: 30px;
-    width: 180px;
+    width: 160px;
     height: 40px;
-    background-color: white;
-    border: 2px solid rgb(155, 155, 155);
-    border-radius: 5px;
+    background-color: #ffe2e5;
+    border: none;
+    /* border: 2px solid rgb(155, 155, 155); */
+    border-radius: 90px;
 
     font-size: 14px;
-    color: grey;
+    /* color: grey; */
+    color: #ED1A2F;
+    transition: color 0.3s ease;
+
 }
 
 .career-content .career-button:hover{
-    background-color: rgb(155, 155, 155);
+    background-color: #ED1A2F;
     color: white;
     font-weight: 700;
 }
@@ -426,5 +433,48 @@ body{
     transition: height 0.5s ease; /* Efek transisi */
     border-radius: 10px; /* Sama dengan gambar */
     z-index: 1; /* Di atas gambar */
+}
+
+
+/* Footer */
+.footer {
+    background-color: #ED1A2F;
+    padding: 40px 0;
+    color: white;
+}
+
+.footer h1 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer ul li {
+    margin-bottom: 10px;
+}
+
+.footer ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer ul li a:hover {
+    color: #006BB8; /* Warna hover untuk link */
+}
+
+.footer img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.footer .row > div {
+    margin-bottom: 20px;
 }
 
