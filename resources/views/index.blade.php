@@ -95,9 +95,7 @@
                 <div class="col-md-7 berita-content my-auto">
                     <h1>Mewujudkan Kedaulatan Energi hingga Pelosok Negeri</h1>
                     <p>
-                        Pertamina berfokus pada pengembangan energi baru terbarukan dan energi terbarukan untuk
-                        mendukung program
-                        pemerintah dalam mewujudkan energi hingga pelosok negeri.
+                        Pertamina berfokus pada upaya-upaya untuk memastikan ketersediaan energi nasional yang inklusif berdasarkan prinsip availability, accessibility, affordability, acceptability dan sustainability.
                     </p>
                     <button class="berita-button">
                         Lihat Lebih Lanjut
@@ -115,10 +113,9 @@
                 <div class="card col-md-3">
                     <div class="card-menu">
                         <img src="{{ asset('assets/img/menu-1.jpeg') }}" alt="menu" class="img-fluid img-menu">
-                        <h1>Minyak Bumi</h1>
+                        <h1>Rekrutmen</h1>
                         <p>
-                            Pertamina memiliki produk minyak bumi yang berkualitas tinggi dan ramah lingkungan.
-                            Produk minyak bumi Pertamina telah teruji dan terpercaya.
+                            Pertamina membuka kesempatan bagi para talenta muda untuk bergabung dan berkembang bersama kami.
                         </p>
 
                     </div>
@@ -129,10 +126,9 @@
                 <div class="card col-md-3">
                     <div class="card-menu">
                         <img src="{{ asset('assets/img/menu-1.jpeg') }}" alt="menu" class="img-fluid img-menu">
-                        <h1>Minyak Bumi</h1>
+                        <h1>Layanan Informasi</h1>
                         <p>
-                            Pertamina memiliki produk minyak bumi yang berkualitas tinggi dan ramah lingkungan.
-                            Produk minyak bumi Pertamina telah teruji dan terpercaya.
+                            Pertamina menyediakan layanan informasi yang dapat diakses oleh masyarakat luas. Layanan informasi ini dapat membantu masyarakat dalam mendapatkan informasi yang dibutuhkan.
                         </p>
 
                     </div>
@@ -143,10 +139,9 @@
                 <div class="card col-md-3">
                     <div class="card-menu">
                         <img src="{{ asset('assets/img/menu-1.jpeg') }}" alt="menu" class="img-fluid img-menu">
-                        <h1>Minyak Bumi</h1>
+                        <h1>Harga BBM Pertamina</h1>
                         <p>
-                            Pertamina memiliki produk minyak bumi yang berkualitas tinggi dan ramah lingkungan.
-                            Produk minyak bumi Pertamina telah teruji dan terpercaya.
+                            Pertamina menyediakan layanan informasi harga BBM yang dapat diakses oleh masyarakat luas. Layanan informasi ini dapat membantu masyarakat dalam mendapatkan informasi harga BBM yang dibutuhkan.
                         </p>
 
                     </div>
@@ -157,10 +152,9 @@
                 <div class="card col-md-3">
                     <div class="card-menu">
                         <img src="{{ asset('assets/img/menu-1.jpeg') }}" alt="menu" class="img-fluid img-menu">
-                        <h1>Minyak Bumi</h1>
+                        <h1>Laporan Tahunan</h1>
                         <p>
-                            Pertamina memiliki produk minyak bumi yang berkualitas tinggi dan ramah lingkungan.
-                            Produk minyak bumi Pertamina telah teruji dan terpercaya.
+                            Pertamina menyediakan laporan tahunan yang dapat diakses oleh masyarakat luas. Laporan tahunan ini dapat membantu masyarakat dalam mendapatkan informasi yang dibutuhkan.
                         </p>
 
                     </div>
@@ -184,9 +178,7 @@
                 <div class="col-md-5">
                     <h1>Tentang Kami</h1>
                     <p>
-                        Pertamina adalah perusahaan energi nasional yang berkomitmen untuk memberikan energi terbaik
-                        bagi
-                        masyarakat Indonesia.
+                        Lebih dari enam dekade menyediakan energi untuk seluruh penjuru negeri dan sejumlah wilayah di luar negeri.
                     </p>
                     <button class="about-button">
                         Lihat Lebih Lanjut
@@ -241,7 +233,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="{{ asset('assets/img/logo-pertamina.png') }}" alt="logo" class="img-fluid">
+                    <img src="{{ asset('assets/img/logo-footer.png') }}" alt="logo" class="img-fluid">
                     <p>Jl. Medan Merdeka Timur No.1A, Gambir, Jakarta Pusat, 10110</p>
                 </div>
                 <div class="col-md-3">

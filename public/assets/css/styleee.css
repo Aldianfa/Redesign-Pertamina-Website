@@ -239,7 +239,7 @@ body{
     align-items: center;
     justify-content: center;
 
-    transition: all 0.3s ease;
+    transition: all 0.5s ease;
     overflow: hidden; /* Untuk mencegah konten overflow */
 }
 
@@ -257,7 +257,7 @@ body{
 .menu .card-button:hover::after {
     content: "Lihat Detail";
     color: white;
-    font-size: 14px;
+    font-size: 12px;
     margin-left: 10px; /* Jarak antara ikon dan teks */
 }
 
