@@ -2,6 +2,7 @@
 body {
     margin: 0;
     padding-top: 55px;
+    padding: 0 100px;
     font-family: 'Poppins' !important;
 }
 
@@ -59,8 +60,11 @@ header {
 .hero {
     background: url('../img/hero-pertamina1.png') no-repeat center center/cover;
     padding-top: 50px;
+    padding-bottom: 50px;
     color: white;
     height: 100vh;
+
+    border-radius: 10px;
 }
 
 .hero-content {
