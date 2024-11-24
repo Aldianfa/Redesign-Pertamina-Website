@@ -112,7 +112,7 @@
             <div class="row">
                 <div class="card col-md-3">
                     <div class="card-menu">
-                        <img src="{{ asset('assets/img/menu-1.jpeg') }}" alt="menu" class="img-fluid img-menu">
+                        <img src="{{ asset('assets/img/rekrutmen.png') }}" alt="menu" class="img-fluid img-menu">
                         <h1>Rekrutmen</h1>
                         <p>
                             Pertamina membuka kesempatan bagi para talenta muda untuk bergabung dan berkembang bersama kami.
@@ -138,7 +138,7 @@
                 </div>
                 <div class="card col-md-3">
                     <div class="card-menu">
-                        <img src="{{ asset('assets/img/menu-1.jpeg') }}" alt="menu" class="img-fluid img-menu">
+                        <img src="{{ asset('assets/img/bbm.jpeg') }}" alt="menu" class="img-fluid img-menu">
                         <h1>Harga BBM Pertamina</h1>
                         <p>
                             Pertamina menyediakan layanan informasi harga BBM yang dapat diakses oleh masyarakat luas. Layanan informasi ini dapat membantu masyarakat dalam mendapatkan informasi harga BBM yang dibutuhkan.
@@ -151,7 +151,7 @@
                 </div>
                 <div class="card col-md-3">
                     <div class="card-menu">
-                        <img src="{{ asset('assets/img/menu-1.jpeg') }}" alt="menu" class="img-fluid img-menu">
+                        <img src="{{ asset('assets/img/keuangan.jpg') }}" alt="menu" class="img-fluid img-menu">
                         <h1>Laporan Tahunan</h1>
                         <p>
                             Pertamina menyediakan laporan tahunan yang dapat diakses oleh masyarakat luas. Laporan tahunan ini dapat membantu masyarakat dalam mendapatkan informasi yang dibutuhkan.
