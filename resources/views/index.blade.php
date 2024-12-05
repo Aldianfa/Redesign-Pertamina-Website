@@ -93,7 +93,7 @@
 
     {{-- SECTION BERITA --}}
     <section class="berita" id="berita">
-        <div class="container" data-aos="fade-left" data-aos-delay="600">
+        <div class="container" data-aos="fade-left" data-aos-delay="200">
             <div class="row">
                 <div class="col-md-4">
                     <img src="{{ asset('assets/img/berita-2.jpeg') }}" alt="gambar" class="img-fluid img-berita">
