@@ -17,14 +17,16 @@
         integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
-
     <!-- BOOTSTRAP -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
     <link rel="stylesheet" href="bootstrap.min.css">
     <link rel="stylesheet" href="custom-style.css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+
+    
 
 
 </head>
